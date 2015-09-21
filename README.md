@@ -8,4 +8,4 @@ Modified by contrib15.
 
 Image test:
 
-![test](https://github.com/MyOrgTest4848/Project1/blob/master/images/Debian-OpenLogo.png)
+![GUI](https://github.com/liris-vision/starling/blob/master/doc/user_guide/gui.png)
